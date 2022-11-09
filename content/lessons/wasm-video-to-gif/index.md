@@ -130,7 +130,8 @@ function App() {
   }
 
   return (
-     
+    <div className="App">
+    
       <h3>Result</h3>
 
       <button onClick={convertToGif}>Convert</button>
